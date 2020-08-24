@@ -1,12 +1,12 @@
-needMaintenance: false
+needMaintenance: true
 sendPubnub: true
-startAt: 2020-08-23 21:45:00 (GMT+0800)
-endAt: 2020-08-23 22:30:00 (GMT+0800)
+startAt: 2020-08-24 20:30:00 (GMT+0800)
+endAt: 2020-08-24 22:30:00 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcement"
         description: "Dear users,\n
-        To ensure the highest stability and performance levels for our services, we’re applying a system update on servers during 21:45 - 22:30 (GMT+8). We apologize for your inconvenience. Should there be any question, please contact our 24/7 customer service. Thank you."
+        To ensure the highest stability and performance levels for our services, we’re applying a system maintenance on servers till 22:30 (GMT+8). We apologize for your inconvenience. Should there be any question, please contact our 24/7 customer service. Thank you."
         pic: "17baobao.jpg"
     TW:
         title: "系統維修公告"
