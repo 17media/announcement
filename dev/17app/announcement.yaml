@@ -1,4 +1,4 @@
-needMaintenance: false
+needMaintenance: true
 sendPubnub: true
 startAt: 2023-05-17 12:00:00 (GMT+0800)
 endAt: 2023-05-17 14:00:00 (GMT+0800)
