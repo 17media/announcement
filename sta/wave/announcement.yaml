@@ -1,14 +1,14 @@
 needMaintenance: true
 sendPubnub: true
-startAt: 2024-04-19 15:15:00 (GMT+0800)
-endAt: 2024-04-19 16:00:00 (GMT+0800)
+startAt: 2024-04-19 17:00:00 (GMT+0800)
+endAt: 2024-04-19 17:45:00 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcement"
-        description: "The service of WAVE will be suspended during the following times for routine system maintenance. The service will be restarted after the maintenance is completed. We apologize for your inconvenience. After the maintenance is finished, close and reopen the App to use it normally.\n\nTaiwan Times: 2024/04/19 15:15:00〜16:00:00\nJapan Times: 2024/04/19 16:15:00〜17:00:00\n\nIf there is any question please contact our customer service. \n\nWAVE Operation Team."
+        description: "The service of WAVE will be suspended during the following times for routine system maintenance. The service will be restarted after the maintenance is completed. We apologize for your inconvenience. After the maintenance is finished, close and reopen the App to use it normally.\n\nTaiwan Times: 2024/04/19 17:00:00〜17:45:00\nJapan Times: 2024/04/19 18:00:00〜18:45:00\n\nIf there is any question please contact our customer service. \n\nWAVE Operation Team."
     TW:
         title: "系統維護公告"
-        description: "WAVE 將於下述時間暫停服務，進行例行系統維護。服務將於系統維修完成後重新開啟，造成您的不便還請見諒。維護結束後，完整關閉 App 並重新開啟即可正常使用。\n\n如有任何問題可以寫信至客服信箱。感謝您的支持與諒解，謝謝！\n\n台灣時間：\n2024/04/19 15:15:00〜16:00:00\n日本時間：\n2024/04/19 16:15:00〜17:00:00\n\nWAVE 營運團隊敬上"
+        description: "WAVE 將於下述時間暫停服務，進行例行系統維護。服務將於系統維修完成後重新開啟，造成您的不便還請見諒。維護結束後，完整關閉 App 並重新開啟即可正常使用。\n\n如有任何問題可以寫信至客服信箱。感謝您的支持與諒解，謝謝！\n\n台灣時間：\n2024/04/19 17:00:00〜17:45:00\n日本時間：\n2024/04/19 18:00:00〜18:45:00\n\nWAVE 營運團隊敬上"
     JP:
         title: "システムメンテナンス告知"
-        description: "WAVEは定期メンテナンスのため、下記の時間にてサービスを停止しております。サービスはメンテナンス終了後に再開させていただきます。ご迷惑をおかけしますが、ご了承お願いいたします。メンテナンス終了後はアプリを一旦終了し、再度開くと正常にご利用いただけます。\n\n台湾時間：\n2024/04/19 15:15:00〜16:00:00\n日本時間：\n2024/04/19 16:15:00〜17:00:00\n\nご質問などございましたら、WAVEカスタマサービスへお問い合わせください。\n\nWAVE運営チーム"
+        description: "WAVEは定期メンテナンスのため、下記の時間にてサービスを停止しております。サービスはメンテナンス終了後に再開させていただきます。ご迷惑をおかけしますが、ご了承お願いいたします。メンテナンス終了後はアプリを一旦終了し、再度開くと正常にご利用いただけます。\n\n台湾時間：\n2024/04/19 17:00:00〜17:45:00\n日本時間：\n2024/04/19 18:00:00〜18:45:00\n\nご質問などございましたら、WAVEカスタマサービスへお問い合わせください。\n\nWAVE運営チーム"
