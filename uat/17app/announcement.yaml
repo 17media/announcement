@@ -1,5 +1,8 @@
 needMaintenance: true
-sendPubnub: true
+# fill in the providers to use here:
+# 1: ably / 2: pubnub
+# if no need to send message, leave it blank
+providersToUse: [1, 2]
 startAt: 2023-09-05 13:05:00 (GMT+0800)
 endAt: 2023-09-05 13:30:00 (GMT+0800)
 image: "1032766c-4027-4d6e-8f48-6a46d02a50a0.png"
