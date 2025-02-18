@@ -1,5 +1,8 @@
 needMaintenance: true
-sendPubnub: false
+# fill in the providers to use here:
+# 1: ably / 2: pubnub
+# if no need to send message, leave it blank
+providersToUse: []
 startAt: 2020-05-29 19:00:00 (GMT+0800)
 endAt: 2020-05-29 21:05:30 (GMT+0800)
 announcements:
