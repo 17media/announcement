@@ -1,5 +1,10 @@
 needMaintenance: true
+# sendPubnub is to be deprecated once shield service is upgraded
 sendPubnub: true
+# fill in the providers to use here:
+# 1: ably / 2: pubnub
+# if no need to send message, leave it blank
+providersToUse: [1]
 startAt: 2024-04-17 18:15:00 (GMT+0800)
 endAt: 2024-04-17 18:25:00 (GMT+0800)
 announcements:
