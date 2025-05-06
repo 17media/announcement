@@ -3,8 +3,8 @@ needMaintenance: true
 # 1: ably / 2: pubnub
 # if no need to send message, leave it blank
 providersToUse: [2]
-startAt: 2025-05-06 11:00:00 (GMT+0800)
-endAt: 2025-05-06 11:05:00 (GMT+0800)
+startAt: 2025-05-06 11:10:00 (GMT+0800)
+endAt: 2025-05-06 11:15:00 (GMT+0800)
 image: "1032766c-4027-4d6e-8f48-6a46d02a50a0.png"
 announcements:
     EN:
