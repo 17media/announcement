@@ -4,7 +4,7 @@ sendPubnub: true
 # fill in the providers to use here:
 # 1: ably / 2: pubnub
 # if no need to send message, leave it blank
-providersToUse: [1]
+providersToUse: [2]
 startAt: 2025-05-21 16:00:00 (GMT+0800)
 endAt: 2025-05-21 16:05:00 (GMT+0800)
 announcements:
