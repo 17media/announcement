@@ -3,8 +3,8 @@ needMaintenance: true
 # 1: ably / 2: pubnub
 # if no need to send message, leave it blank
 providersToUse: [1]
-startAt: 2025-07-18 10:45:00 (GMT+0800)
-endAt: 2025-07-18 10:46:00 (GMT+0800)
+startAt: 2025-10-07 18:00:00 (GMT+0800)
+endAt: 2025-10-07 18:10:00 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcement"
