@@ -4,7 +4,7 @@ needMaintenance: true
 # if no need to send message, leave it blank
 providersToUse: [1]
 startAt: 2026-01-29 04:00:00 (GMT+0800)
-endAt: 2026-01-29 07:30:00 (GMT+0800)
+endAt: 2026-01-29 05:30:00 (GMT+0800)
 announcements:
     EN:
         title: "System Maintenance Announcement"
