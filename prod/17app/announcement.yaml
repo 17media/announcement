@@ -4,7 +4,7 @@ needMaintenance: true
 # if no need to send message, leave it blank
 providersToUse: [1]
 startAt: 2026-02-21 08:25:00 (GMT+0800)
-endAt: 2025-02-21 14:25:00 (GMT+0800)
+endAt: 2025-02-21 14:26:00 (GMT+0800)
 image: "1032766c-4027-4d6e-8f48-6a46d02a50a0.png"
 announcements:
     EN:
